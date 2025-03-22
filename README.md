@@ -69,7 +69,7 @@
 - https://pytorch.org/audio/stable/tutorials/audio_feature_extractions_tutorial.html#sphx-glr-tutorials-audio-feature-extractions-tutorial-py
 - https://web.archive.org/web/20200918093029/https://pybonacci.org/2012/09/29/transformada-de-fourier-discreta-en-python-con-scipy/
 
-## Otros
+## Otros
 
 - https://github.com/akshaymahajans/cogs189
 - https://github.com/vnaazleen/Music-Mood-Classification
